@@ -1,0 +1,9 @@
+{
+    "$manifest": {
+        "org.opencontainers.image.vendor": "Aserto",
+        "org.opencontainers.image.authors": "Aserto",
+        "org.opencontainers.image.description": "Simple RBAC policy template.",
+        "org.opencontainers.image.source": "https://github.com/aserto-templates/policy-simple-rbac",
+        "org.openpolicyregistry.template.kind": "policy"
+    }
+}
