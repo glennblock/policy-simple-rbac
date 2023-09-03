@@ -8,7 +8,7 @@ This repository houses a very basic RBAC policy. It expects a group name to be p
 
 `src/.manifest` contains the policy roots - in this case, `rbac`. If you change the name of the `package` definitions in the `.rego` files, make sure that the first component of the package name is reflected in this list.
 
-`src/policies` contains the policy modules associated with the group-based RBAC template.
+`src/policies` contains the policy modules associated with the Simple RBAC template.
 
 * rbac.rego - `rbac.is_member_of` - a rule that determines whether the user is a member of a group
 
